@@ -49,6 +49,7 @@ module Jekyll
         end
 
         html << "</ul>"
+        return html
       end
 
       private

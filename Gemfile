@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", "~> 4.3.2"
 gem "webrick"
 gem "nokogiri", ">= 1.12.5"
 gem "liquid", "~> 4.0.4"
