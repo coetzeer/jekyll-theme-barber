@@ -11,6 +11,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "webrick"
 gem "nokogiri", ">= 1.12.5"
+gem "liquid", "~> 4.0.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
